@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech student in Artificial Intelligence and Data Science with hands-on experience in software development, AI/ML, and building efficient, <br>reusable, and reliable software. Skilled in Python and modern machine learning techniques, with a strong passion for solving real-world problems <br>and leveraging AI-driven innovations.
+B.Tech student in Artificial Intelligence and Data Science with hands-on experience in software development, AI/ML, and building efficient, reusable, and reliable software. Skilled in Python and modern machine learning techniques, with a strong passion for solving real-world problems and leveraging AI-driven innovations.
 
 
 ## 🌐 Socials:
